@@ -1,0 +1,31 @@
+body{
+    background-color: darkred;
+}
+.h1{
+    background-color: aqua;
+    text-align: center;
+    color: white;
+}
+.nma{
+    background-color: white;
+    width: 350px;
+    text-align: center;
+    border-radius: 20px;
+}
+.p{
+    text-align: center;
+    font-size: 30px;
+    
+}
+.lorem{
+    font-size: 20px;
+}
+button{
+    border-radius: 20px;
+    background-color: black;
+    color: white;
+    font-size: 20px;
+}
+.back{
+    background-color: beige;
+}
